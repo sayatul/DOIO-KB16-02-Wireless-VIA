@@ -15,3 +15,4 @@ I found the instructions and the .json files online to be completely wrong and a
 Now you can update your macropad!
 
 Enjoy!
+https://www.reddit.com/r/MechanicalKeyboards/comments/t2fb4p/using_via_macros_to_launch_programs/
